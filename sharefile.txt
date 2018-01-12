@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 a
+=======
+public static void main()
+(
+//This is the main method of the class.
+init()
+>>>>>>> 4575b3f4d789c3fe10ba91955dd513d055497921
