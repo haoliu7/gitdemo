@@ -1,0 +1,4 @@
+public static void main()
+(
+//This is the main method of the class.
+init()
